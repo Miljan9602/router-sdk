@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/router-sdk",
+  "name": "@miljan9602/router-sdk",
   "version": "1.7.1",
   "description": "An sdk for routing swaps using Uniswap v2 and Uniswap v3.",
   "publishConfig": {
@@ -29,7 +29,7 @@
     "@ethersproject/abi": "^5.5.0",
     "@uniswap/sdk-core": "^4.0.7",
     "@uniswap/swap-router-contracts": "^1.1.0",
-    "@uniswap/v2-sdk": "^3.2.0",
+    "@miljan9602/v2-sdk": "^5.0.2",
     "@uniswap/v3-sdk": "^3.10.0"
   },
   "devDependencies": {
