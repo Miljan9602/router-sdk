@@ -1,4 +1,4 @@
-import { BigintIsh, CurrencyAmount, Ether, Percent, Token, TradeType, WETH9 } from '@uniswap/sdk-core'
+import { BigintIsh, CurrencyAmount, Ether, Percent, Token, TradeType, WETH9 } from '@miljan9602/sdk-core'
 import { Pair, Route as V2Route, Trade as V2Trade } from '@miljan9602/v2-sdk'
 import {
   encodeSqrtRatioX96,
@@ -10,7 +10,7 @@ import {
   TickMath,
   TICK_SPACINGS,
   Trade as V3Trade,
-} from '@uniswap/v3-sdk'
+} from '@miljan9602/v3-sdk'
 import JSBI from 'jsbi'
 import { SwapRouter, Trade } from '.'
 import { ApprovalTypes } from './approveAndCall'

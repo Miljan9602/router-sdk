@@ -1,7 +1,7 @@
 import invariant from 'tiny-invariant'
 
-import { Currency, Price, Token } from '@uniswap/sdk-core'
-import { Pool } from '@uniswap/v3-sdk'
+import { Currency, Price, Token } from '@miljan9602/sdk-core'
+import { Pool } from '@miljan9602/v3-sdk'
 import { Pair } from '@miljan9602/v2-sdk'
 
 type TPool = Pair | Pool
