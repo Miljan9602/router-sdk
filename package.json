@@ -1,6 +1,6 @@
 {
   "name": "@miljan9602/router-sdk",
-  "version": "7.0.3",
+  "version": "8.0.0",
   "description": "An sdk for routing swaps using Uniswap v2 and Uniswap v3.",
   "publishConfig": {
     "access": "public"
@@ -18,19 +18,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/router-sdk.git"
+    "url": "https://github.com/Miljan9602/router-sdk.git"
   },
   "keywords": [
     "uniswap",
-    "ethereum"
+    "dragonswap"
   ],
   "license": "MIT",
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
     "@uniswap/swap-router-contracts": "^1.1.0",
-    "@miljan9602/sdk-core" : "^7.0.2",
-    "@miljan9602/v2-sdk": "^7.0.3",
-    "@miljan9602/v3-sdk": "^7.0.3"
+    "@miljan9602/sdk-core" : "^8.0.0",
+    "@miljan9602/v2-sdk": "^8.0.0",
+    "@miljan9602/v3-sdk": "^8.0.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
