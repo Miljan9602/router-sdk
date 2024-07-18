@@ -28,9 +28,10 @@
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
     "@uniswap/swap-router-contracts": "^1.1.0",
-    "@miljan9602/sdk-core" : "^8.0.0",
-    "@miljan9602/v2-sdk": "^8.0.0",
-    "@miljan9602/v3-sdk": "^8.0.0"
+
+    "@miljan9602/sdk-core" : "github:Miljan9602/sdk-core#staging",
+    "@miljan9602/v2-sdk" : "github:Miljan9602/v2-sdk#staging",
+    "@miljan9602/v3-sdk" : "github:Miljan9602/v3-sdk#staging"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
